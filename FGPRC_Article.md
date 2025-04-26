@@ -1,7 +1,7 @@
-# A brief introduction to FlightGear & the scenery system, written in zh_CN
+# A brief introduction to FlightGear, written in zh_CN
 *By Gordon Zhang (GZhang), April, 2025*
 
-## 1.1 FlightGear: What is it? Yet another FlightSim?
+## 1 FlightGear: What is it? Yet another FlightSim?
 - Wiki:
 >**[FlightGear](https://wiki.flightgear.org/FlightGear "FlightGear")** 是一个由来自世界各地的志愿者创建的飞行模拟器，以免费、开源的 [GPL](https://wiki.flightgear.org/GNU_General_Public_License "GNU General Public License") 软件形式发布。 FlightGear 已被广泛用于 [学术研究、教育](https://wiki.flightgear.org/Professional_and_educational_FlightGear_users "Professional and educational FlightGear users"), 以及娱乐。
 >
@@ -15,7 +15,7 @@
 
 所谓自由开源，对于普通用户来说有何意义？回归到刚刚的问题，它到底是不是一个普普通通的yet another FS?
 
-### 1.1.1 What FOSS can bring you
+### 1.1 What FOSS can bring you
 作为一个普通用户，也许“自由软件”遥不可及？ 你已经把众多专有软件当成你日常生活的一部分，你或许永远不需要阅读它的源码，更不需要复用它？
 
 *以下内容不分先后顺序*
@@ -35,8 +35,18 @@
 - …
 
 
-### 1.1.2  Why FlightGear?
+### 1.2  Why FlightGear?
+*毫无疑问，选择一个Flight Simulator是你的自由。*
+
+使用FG将近两年，我的一些体会
+*同样不分先后顺序：*
+
+- FlightGear相比众多商业FS, 其用户数量并不多，但是FlightGear社区的“小&高质量”何尝不是一种优势？
+- FlightGear**能够**提供较低的Graphics设置，你**不必**拥有性能。 （注意是“能够”“不必”，而不是“只能”“只需”）
+对于希望更好的视觉效果的用户，FlightGear同样能满足他们的愿望——[HDR](wiki.flightgear.org/HDR_Pipeline)
+
+## 2 FlightGear
 *to be continued*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjcyODk1OF19
+eyJoaXN0b3J5IjpbLTE5OTY5NTk4OThdfQ==
 -->
